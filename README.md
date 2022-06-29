@@ -12,7 +12,7 @@ a. **UI+UX**:
 
 1. minimalist clean ui
 2. human intitutive interface
-3. fair amount ai
+3. fair amount of ai
 
 b. **f(n)**:
 
