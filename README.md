@@ -20,6 +20,6 @@ b. **f(n)**:
 2. or ask me for the area i am interested in;
 3. then apply some ``fuzzy logic`` to produce a schedule.
 
-That's it so far, I will more as I go along. I will also expand the above _maslow pyramid of needs_, el-oh-el.
+That's it for now, I will add more as I go along. I will also expand one the above _maslow pyramid of needs_, el-oh-el.
 
 Salut!
