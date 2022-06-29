@@ -1,6 +1,6 @@
 # **DARK.**
 
-an app|ication to track and **monitor rolling blackouts**, _ass_ (also sold as) load-shedding, is johannesburg (and maybe all of south africa).
+an app|ication to track and **monitor rolling blackouts**, _ass_ (also sold as) load-shedding, in johannesburg (and maybe all of south africa).
 
 i am only doing this because, well, i think there isn't a decent application built to monitor and track the rolling blackouts (load-shedding).
 
